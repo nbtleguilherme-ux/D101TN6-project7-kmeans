@@ -8,7 +8,8 @@ venv/
 .ipynb_checkpoints/
 *.ipynb
 
-# Generated data and PDF
+# Guidance document and generated files
+HUONG_DAN.md
 data/
 *.pdf
 
